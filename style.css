@@ -1,0 +1,37 @@
+html, body {
+    height: 100%;
+	background-color: azure;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+div {
+	padding-top: 50px;
+	padding-right: 80px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+#profile_photo {
+	width: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h3, dd {
+	text-align: justify;
+}
