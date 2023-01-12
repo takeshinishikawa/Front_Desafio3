@@ -1,16 +1,16 @@
 html, body {
-    height: 100%;
+	height: 100%;
 	background-color: azure;
 }
 
 html {
-    display: table;
-    margin: auto;
+	display: table;
+	margin: auto;
 }
 
 body {
-    display: table-cell;
-    vertical-align: middle;
+	display: table-cell;
+	vertical-align: middle;
 }
 
 div {
@@ -26,7 +26,7 @@ h1 {
 
 
 #profile_photo {
-	width: 200px;
+	width: 150px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
